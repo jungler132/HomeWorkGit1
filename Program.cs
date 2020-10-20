@@ -8,6 +8,7 @@ namespace HomeWorkGit1
         {
             Console.WriteLine("Thank you for using my programm <3!!!");
             Data();
+            Console.ReadKey();
         }
         public static void Data()
         {
